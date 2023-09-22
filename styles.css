@@ -11,7 +11,7 @@ h1 {
     color: steelblue;
 }
 img {
-    width: 150px;
+    width: 350px;
     height: auto;
     border: 1px solid steelblue;
     padding: 2px;
@@ -33,7 +33,7 @@ aside{
     text-align: center;
 }
 aside img {
-    width: 20px;
+    width: 350px;
     height: auto;
 }
 main img {
