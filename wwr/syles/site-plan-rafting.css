@@ -1,4 +1,7 @@
-@import url('https://fonts.google.com/specimen/Black+Ops+One');
+@font-face {
+    font-family: Black Ops One;
+    src: url('https://fonts.google.com/specimen/Black+Ops+One');
+}
 :root{
     --primary-color: #091540;
     --secondary-color: #7692FF;
