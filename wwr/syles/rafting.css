@@ -1,0 +1,68 @@
+@import url('https://fonts.google.com/specimen/Black+Ops+One');
+:root{
+    --primary-color: #091540;
+    --secondary-color: #7692FF;
+
+    --heading-font:  'Black Ops One', cursive;
+    --paragraph-font: 'Black Ops One', cursive;
+}
+nav {
+    background-color: steelblue;
+    padding: 10px;
+    margin: auto;
+}
+
+main {
+    max-width: 840px;
+}
+div.hero{
+    position: relative;
+    margin: auto;
+}
+div h1{
+    position: absolute;
+    margin: auto;
+}
+div article img{
+    position: relative;
+    margin: auto;
+}
+div article{
+    position: absolute;
+    margin: auto;
+}
+h1{
+    position: absolute;
+    margin: auto;
+}
+article img{
+    width: 350px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+    margin: auto
+}
+article p{
+    float: left;
+    margin: auto;
+
+}
+footer p{
+    padding: 20px;
+    margin: auto;
+}
+footer nav{
+    padding: 20px;
+}
+footer img{
+    width: 100px;
+    height: auto;
+    margin: auto;
+}
+.hero img {
+    display: inline;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
