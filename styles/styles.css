@@ -26,15 +26,20 @@ p {
 main {
     max-width: 840px;
 }
+aside h2 {
+    position: absolute;
+    top: 47px;
+    left: 150px;
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
 aside{
     width: 20rem;
     text-align: center;
 
     text-align: center;
-}
-aside img {
-    width: 200px;
-    height: auto;
 }
 main img {
     width: 150px;
@@ -48,11 +53,6 @@ footer {
     margin-top: 1em;
     border-top: 1px solid #000;
     text-align: center;
-}
-aside h2 {
-    position: absolute;
-    top: 47px;
-    left: 150px;
 }
 /*Class Selectors*/
 .box{
