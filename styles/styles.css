@@ -31,15 +31,15 @@ aside h2 {
     top: 47px;
     left: 150px;
 }
-aside img {
-    width: 200px;
-    height: auto;
-}
 aside{
     width: 20rem;
     text-align: center;
 
     text-align: center;
+}
+aside img {
+    width: 200px;
+    height: auto;
 }
 main img {
     width: 150px;
