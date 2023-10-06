@@ -51,7 +51,7 @@ main {
     grid-column: 2/3;
     margin: 1rem;
 }
-aside h2 {
+aside h1 {
     position: absolute;
     top: 47px;
     left: 150px;
