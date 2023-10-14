@@ -7,19 +7,11 @@ header {
 	max-width: 1000px;
     justify-content: center;
 }
-main section{
+main {
     text-align: center;
     justify-content: center;
 }
-main img{
-    justify-content: center;
-}
-section h1{
-    text-align: center;
-}
-.history{
-    text-align: center;
-}
+
 .logo img {
 	margin: 0 0.25rem 0 1rem;
 	width: 64px;
@@ -35,7 +27,7 @@ h3 {
     justify-content: center;
 }
 h2{
-    font-size: 2rem;
+    font-size: 1em;
 	font-family: Acme, Arial, sans-serif;
     justify-content: center;
 
@@ -46,24 +38,11 @@ nav {
     display: flex;
     justify-content: center;
 }
-.hero img{
-    margin: 0 0.25rem 0 1rem;
-	width: 300px;
-	height: auto;
-    justify-content: space-evenly;
-}
-p {
-    text-align: center;
-}
-.hero h1{
+h1 {
     text-align: center;
 }
 footer p{
     text-align: center;
-}
-article img{
-    float: right;
-    display: flex;
 }
 footer img{
     float: right;
@@ -75,10 +54,8 @@ fieldset{
     text-align: center;
     border: 20px;
     width: auto;
+    padding: 20px;
     
-}
-label{
-    text-align: center;
 }
 div map{
     align-items: center;
