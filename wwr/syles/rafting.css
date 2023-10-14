@@ -46,39 +46,14 @@ nav {
     display: flex;
     justify-content: center;
 }
-
-.navigation {
-	display: flex;
-	list-style: none;
-    justify-content: center;
-}
-
-.navigation li {
-	flex: 1 1 100%;
-    display: flex;
-    justify-content: center;
-}
-
-.navigation a {
-	display: block;
-	color: navy;
-	padding: 20px;
-	text-decoration: none;
-    justify-content: center;
-}
-
-.navigation a:hover {
-	color: tomato;
-	font-weight: 700;
-	text-decoration: underline;
-    display: flex;
-    justify-content: center;
-}
 .hero img{
     margin: 0 0.25rem 0 1rem;
 	width: 300px;
 	height: auto;
     justify-content: space-evenly;
+}
+p {
+    text-align: center;
 }
 .hero h1{
     text-align: center;
@@ -94,4 +69,17 @@ footer img{
     float: right;
     height: auto;
     width: 20px;
+}
+fieldset{
+    align-items: center;
+    text-align: center;
+    border: 20px;
+    width: auto;
+    
+}
+label{
+    text-align: center;
+}
+div map{
+    align-items: center;
 }
