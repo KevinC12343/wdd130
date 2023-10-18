@@ -20,7 +20,7 @@ main {
     justify-content: center;
 }
 
-h3 {
+h1 {
 	font-size: 2rem;
 	font-family: Acme, Arial, sans-serif;
     display: flex;
