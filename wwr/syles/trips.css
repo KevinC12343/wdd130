@@ -1,0 +1,79 @@
+header {
+	margin: 1rem auto;
+	display: flex;
+	grid-template-columns: 120px 1fr 2fr;
+	align-items: center;
+	border-bottom: 1px solid #ccc;
+	max-width: 1000px;
+    justify-content: center;
+}
+main {
+    text-align: center;
+    justify-content: center;
+}
+
+.logo img {
+	margin: 0 0.25rem 0 1rem;
+	width: 64px;
+	height: auto;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+	font-size: 2rem;
+	font-family: Acme, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+form{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: red;
+    border-left: red;
+    border-right: red;
+    border-top: red;
+    padding: 20px;
+    width: auto;
+}
+h1{
+    font-size: 1em;
+	font-family: Acme, Arial, sans-serif;
+    justify-content: center;
+
+}
+section {
+    align-items: center;
+}
+nav {
+	text-align: right;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+footer img{
+    float: right;
+    height: auto;
+    width: 20px;
+}
+fieldset{
+    align-items: center;
+    text-align: center;
+    border: 20px;
+    width: auto;
+    padding: 20px;
+}
+section{ 
+    text-align: left;
+}
+tr{
+    text-align: center;
+}
+div map{
+    align-items: center;
+}
