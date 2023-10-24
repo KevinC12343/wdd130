@@ -26,6 +26,17 @@ h3 {
     display: flex;
     justify-content: center;
 }
+form{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    border: red;
+    border-left: red;
+    border-right: red;
+    border-top: red;
+    padding: 20px;
+    width: auto;
+}
 h2{
     font-size: 1em;
 	font-family: Acme, Arial, sans-serif;
