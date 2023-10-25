@@ -1,5 +1,5 @@
 * {
-    background-color: steelblue;
+    background-color: cyan;
 }
 header {
 	margin: 1rem auto;
@@ -27,21 +27,49 @@ div img{
 head{
     display: grid;
     grid-template-areas: "topbar topbar";
-    grid-template-columns:  1fr 3fr 1fr;
+    grid-template-columns:  1fr 1fr;
+    justify-content: center;
 }
 nav {
 	text-align: right;
     display: flex;
     justify-content: center;
+    background-color: white;
+}
+body section{
+    display: grid;
+}
+body section p{
+    background-color: white;
+    width: 100px;
+    align-items: baseline;
 }
 fieldset{
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    justify-content: center;
+    width: 350px;
+    border: none;
+}
+fieldset legend{
+    background-color: white;
+    width: 500px;
+}
+fieldset input{
+    background-color: white;
+}
+fieldset label{
+    background-color: white;
+}
+fieldset button{
     background-color: white;
 }
 footer p{
     text-align: center;
 }
 footer img{
-    float: right;
+    float:right;
     height: auto;
     width: 20px;
 }
@@ -50,8 +78,16 @@ form{
     text-align: center;
     background-color: white;
     justify-content: center;
+    border-radius: 20px;
+    size: 20px;
+    padding: 20px;
+    width: 500px;
 }
 form p{
     background-color: white;
     border: 20px;
+    width: 500px;
+}
+form button{
+    background-color: white;
 }

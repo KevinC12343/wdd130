@@ -10,6 +10,7 @@ header {
 main {
     text-align: center;
     justify-content: center;
+    background-color: forestgreen;
 }
 
 .logo img {
@@ -27,7 +28,7 @@ h3 {
 }
 form{
     text-align: center;
-    justify-content: center;
+    justify-content: right;
     display: flex;
     border: red;
     border-left: red;
